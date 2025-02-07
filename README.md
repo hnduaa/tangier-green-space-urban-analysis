@@ -1,0 +1,2 @@
+# tangier-green-space-urban-analysis
+ This project analyzes the green spaces and urban areas of Tangier, Morocco, using geospatial data. It loads the city's geographical boundaries, identifies green spaces and urban zones, and calculates their respective areas. The application generates interactive visualizations, including an HTML map with markers for green spaces and urban areas, and exports the data to CSV files. Additionally, it provides graphical insights through pie and bar charts showing the distribution of green and urban areas in Tangier.
